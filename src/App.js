@@ -25,6 +25,7 @@ let [isMorning, setMorning] = useState(true)
       <button onClick={() => setMorning(!isMorning)}> 
         Update Day
       </button>
+      <h3> Thanks for Visiting this page.</h3>
 
     </div>
   );

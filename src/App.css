@@ -2,11 +2,12 @@
 
   height: 500px;
 background-color: rgb(65, 129, 129);
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
 
 }
 .dayLight{
-background-color: yellow
+background-color: rgb(255, 187, 0)
 
 }
 
